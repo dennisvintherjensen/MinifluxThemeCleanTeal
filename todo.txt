@@ -1,0 +1,4 @@
+- Update message when saving preferences
+- Highlight incorrect password configmation
+- Login screen
+- Search bar in IE
